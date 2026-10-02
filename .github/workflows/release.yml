@@ -2,7 +2,7 @@ name: Release
 
 env:
   PKG_REPO: "https://kl.netlib.re/forge/selfhoster1312/torrentdiag"
-  PKG_REF: "2af9af42afbfb3f77854d7161506c7bfe52ad7f2"
+  PKG_REF: "9c89a4479a66669f18a35aca702434fab126a7bc"
   PKG_VERSION: "2026.07.09-1"
 
   # Preview mode: Publishes the build output as a CI artifact instead of creating
